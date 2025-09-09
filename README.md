@@ -1,4 +1,4 @@
-# Loyal Predict
+# Loyalty Predict
 
 Construindo uma solução de Data Science junto com a comunidade. Confira todo nosso material em [cursos.teomewhy.org](cursos.teomewhy.org).
 
