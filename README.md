@@ -28,3 +28,4 @@ Identificar perda ou ganho de engajamento dos usuários da nossa comunidade.
 ## Fontes de Dados
 
 - [Sistema de Pontos](https://www.kaggle.com/datasets/teocalvo/teomewhy-loyalty-system)
+- [Plataforma de Cursos](https://www.kaggle.com/datasets/teocalvo/teomewhy-education-platform)
