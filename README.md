@@ -2,6 +2,8 @@
 
 Construindo uma solução de Data Science junto com a comunidade. Confira todo nosso material em [cursos.teomewhy.org](cursos.teomewhy.org).
 
+<img src="img/loyalty_predict_canva.png">
+
 Começamos ao vivo dia 29/09 [🔗 deixe na sua agenda!!](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2w1YnB1OTk0bTUxdHZvMnNpbmZxZTlwOGpfMjAyNTA5MjlUMTIwMDAwWiB0ZW9AdGVvbWV3aHkub3Jn&tmsrc=teo%40teomewhy.org&scp=ALL)
 
 ## Objetivo
