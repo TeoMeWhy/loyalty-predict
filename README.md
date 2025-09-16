@@ -8,6 +8,17 @@ Começamos ao vivo dia 29/09 [🔗 deixe na sua agenda!!](https://calendar.googl
 
 Identificar perda ou ganho de engajamento dos usuários da nossa comunidade.
 
+## Pré Requisitos
+
+Confira as ferramentas necessárias para estar confortável em acompanhar o projeto. Você pode aprender todas elas em nosso YouTube de maneira 100% gratuita:
+
+- [SQL](https://www.youtube.com/playlist?list=PLvlkVRRKOYFRo651oD0JptVqfQGDvMi3j)
+- [Python](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSpRkqnR0p2A-eaVlpLnN3D)
+- [Pandas](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQHnDhjTmXLEz3HU5WTgOcF)
+- [Estatística](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQGIZdz7BycJet9OncyXlbq)
+- [Machine Learning](https://www.youtube.com/playlist?list=PLvlkVRRKOYFR6_LmNcJliicNan2TYeFO2)
+- [Git e GitHub](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL)
+
 ## Ações
 
 - Criar modelo de Machine Learning que detecte a perda ou ganho de engajamento;
