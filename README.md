@@ -56,8 +56,15 @@ Confira as ferramentas necessárias para estar confortável em acompanhar o proj
 
 ## Perguntas Frequentes
 
-> [!CAUTION]
+> [!CAUTION] Tem certificao?
 > Não daremos certificado!
 
-> [!TIP]
-> O projeto ficará gravado e disponível exclusivamente para [membros do YouTube](https://www.youtube.com/channel/UC-Xa9J9-B4jBOoBNIHkMMKA/join).
+> [!TIP] Vai ficar gravao?
+> O VOD da Twitch ficará disponível logo após a transmissão para os Subs
+> No mesmo dia da respectiva transmissão, cortes editados estarão disponíveis exclusivamente para [membros do YouTube](https://www.youtube.com/channel/UC-Xa9J9-B4jBOoBNIHkMMKA/join).
+
+> [!NOTE] Horários
+> Iniciaremos às 9AM e a previsão é finalizar a transmissão as 11AM.
+
+> [!NOTE] Dias e duração
+> As lives serão de segunda a sexta. Havendo necessidade de avançar por mais de uma semana, seguiremos realizando transmissões.
