@@ -1,6 +1,6 @@
 # Loyalty Predict
 
-Construindo uma solução de Data Science junto com a comunidade. Confira todo nosso material em [cursos.teomewhy.org](cursos.teomewhy.org).
+Construindo uma solução de Data Science junto com a comunidade! Confira todo nosso material em [cursos.teomewhy.org](cursos.teomewhy.org).
 
 <img src="img/loyalty_predict_canva.png">
 
@@ -55,6 +55,9 @@ Confira as ferramentas necessárias para estar confortável em acompanhar o proj
 
 
 ## Perguntas Frequentes
+
+> [!IMPORTANT]
+> As lives são gratuitas e abertas ao público.
 
 > [!CAUTION]
 > Não daremos certificado!
