@@ -53,6 +53,16 @@ Confira as ferramentas necessárias para estar confortável em acompanhar o proj
 - [Sistema de Pontos](https://www.kaggle.com/datasets/teocalvo/teomewhy-loyalty-system)
 - [Plataforma de Cursos](https://www.kaggle.com/datasets/teocalvo/teomewhy-education-platform)
 
+## Apoie o nosso trabalho
+
+- 💵 Chave Pix: pix@teomewhy.org
+- 💶 LivePix: [livepix.gg/teomewhy](https://livepix.gg/teomewhy)
+- 💷 GitHub Sponsors: [github.com/sponsors/TeoMeWhy](https://github.com/sponsors/TeoMeWhy)
+- 💴 ApoiaSe: [apoia.se/teomewhy](https://apoia.se/teomewhy)
+- 🎥 Membro no YouTube: [youtube.com/@teomewhy/membership](https://youtube.com/@teomewhy/membership)
+- 🎮 Sub na Twitch: [twitch.tv/teomewhy](https://twitch.tv/teomewhy)
+- 💌 Newsletter: [teomewhy.substack.com](https://teomewhy.substack.com)
+- 📚 Lojinha na Amazon: [Clique Aqui](https://www.amazon.com.br/shop/teo.calvo?- ref_=cm_sw_r_cp_ud_aipsfshop_MS3WV3HX76NT92FNB5BC)
 
 ## Perguntas Frequentes
 
