@@ -61,6 +61,7 @@ Confira as ferramentas necessárias para estar confortável em acompanhar o proj
 
 > [!TIP]
 > O VOD da Twitch ficará disponível logo após a transmissão para os Subs, durante 16 dias (política da Twitch).
+
 > No mesmo dia da respectiva transmissão, cortes editados estarão disponíveis exclusivamente para [membros do YouTube](https://www.youtube.com/channel/UC-Xa9J9-B4jBOoBNIHkMMKA/join).
 
 > [!NOTE]
