@@ -14,7 +14,9 @@ Começamos ao vivo dia 29/09 às 9AM na [twitch.tv/teomewhy](https://twitch.tv/t
 - [Pré Requisitos](#pré-requisitos)
 - [Etapas](#etapas)
 - [Fonte de Dados](#fontes-de-dados)
+- [Como nos apoiar](#apoie-o-nosso-trabalho)
 - [Perguntas Frequentes](#perguntas-frequentes)
+
 
 ## Objetivo
 
