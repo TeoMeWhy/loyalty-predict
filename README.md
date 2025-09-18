@@ -57,7 +57,7 @@ Confira as ferramentas necessárias para estar confortável em acompanhar o proj
 ## Perguntas Frequentes
 
 > [!IMPORTANT]
-> As lives são gratuitas e abertas ao público. Basta acessar o canal [twitch.tv/teomewhy](twitch.tv/teomewhy) no horário e assistir.
+> As lives são gratuitas e abertas ao público. Basta acessar o canal [twitch.tv/teomewhy](https://twitch.tv/teomewhy) no horário e assistir.
 
 > [!CAUTION]
 > Não daremos certificado!
