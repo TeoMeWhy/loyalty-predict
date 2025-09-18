@@ -6,9 +6,24 @@ Construindo uma solução de Data Science junto com a comunidade. Confira todo n
 
 Começamos ao vivo dia 29/09 às 9AM na [twitch.tv/teomewhy](https://twitch.tv/teomewhy) - [🔗 deixe na sua agenda!!](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2w1YnB1OTk0bTUxdHZvMnNpbmZxZTlwOGpfMjAyNTA5MjlUMTIwMDAwWiB0ZW9AdGVvbWV3aHkub3Jn&tmsrc=teo%40teomewhy.org&scp=ALL)
 
+
+# Índice
+
+- [Objetivo](#objetivo)
+- [Ações](#ações)
+- [Pré Requisitos](#pré-requisitos)
+- [Etapas](#etapas)
+- [Fonte de Dados](#fontes-de-dados)
+- [Perguntas Frequentes](#perguntas-frequentes)
+
 ## Objetivo
 
 Identificar perda ou ganho de engajamento dos usuários da nossa comunidade.
+
+## Ações
+
+- Criar modelo de Machine Learning que detecte a perda ou ganho de engajamento;
+- Fornercer incentivo por meio de pontos para usuários mais engajados;
 
 ## Pré Requisitos
 
@@ -20,11 +35,6 @@ Confira as ferramentas necessárias para estar confortável em acompanhar o proj
 - [Estatística](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQGIZdz7BycJet9OncyXlbq)
 - [Machine Learning](https://www.youtube.com/playlist?list=PLvlkVRRKOYFR6_LmNcJliicNan2TYeFO2)
 - [Git e GitHub](https://www.youtube.com/playlist?list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL)
-
-## Ações
-
-- Criar modelo de Machine Learning que detecte a perda ou ganho de engajamento;
-- Fornercer incentivo por meio de pontos para usuários mais engajados;
 
 ## Etapas
 
@@ -42,3 +52,12 @@ Confira as ferramentas necessárias para estar confortável em acompanhar o proj
 
 - [Sistema de Pontos](https://www.kaggle.com/datasets/teocalvo/teomewhy-loyalty-system)
 - [Plataforma de Cursos](https://www.kaggle.com/datasets/teocalvo/teomewhy-education-platform)
+
+
+## Perguntas Frequentes
+
+> [!CAUTION]
+> Não daremos certificado!
+
+> [!TIP]
+> O projeto ficará gravado e disponível exclusivamente para [membros do YouTube](https://www.youtube.com/channel/UC-Xa9J9-B4jBOoBNIHkMMKA/join).
