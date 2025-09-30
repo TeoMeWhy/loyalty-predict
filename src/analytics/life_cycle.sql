@@ -59,5 +59,6 @@ tb_life_cycle AS (
     ON t1.idCliente = t2.idCliente
 )
 
-SELECT *
+SELECT descLifeCycle, count(*)
 FROM tb_life_cycle
+GROUP BY descLifeCycle
