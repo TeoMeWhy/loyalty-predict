@@ -180,6 +180,6 @@ tb_join AS (
 )
 
 SELECT date('2025-10-01', '-1 day') AS dtRef,
-        *
+       *
 
 FROM tb_join
