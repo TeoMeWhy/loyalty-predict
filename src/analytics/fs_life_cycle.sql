@@ -5,7 +5,7 @@ WITH tb_life_cycle_atual AS (
            descLifeCycle AS descLifeCycleAtual
 
     FROM life_cycle
-    WHERE dtRef = date('2025-10-01','-1 day')
+    WHERE dtRef = date('{date}','-1 day')
 
 ),
 
@@ -15,7 +15,7 @@ tb_life_cycle_D28 AS (
         descLifeCycle AS descLifeCycleD28
 
     FROM life_cycle
-    WHERE dtRef = date('2025-10-01','-29 day')
+    WHERE dtRef = date('{date}','-29 day')
 ),
 
 tb_share_ciclos AS (
@@ -30,7 +30,7 @@ tb_share_ciclos AS (
             1. * SUM(CASE WHEN descLifeCycle = '02-REBORN' THEN 1 ELSE 0 END) / COUNT(*) AS pctReborn
 
     FROM life_cycle
-    WHERE dtRef < '2025-10-01'
+    WHERE dtRef < '{date}'
 
     GROUP BY idCliente
 
@@ -75,7 +75,7 @@ tb_join AS (
 )
 
 
-SELECT date('2025-10-01', '-1 day') AS dtRef,
+SELECT date('{date}', '-1 day') AS dtRef,
        *
 
 FROM tb_join
