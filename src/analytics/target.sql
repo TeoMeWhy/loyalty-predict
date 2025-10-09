@@ -1,4 +1,5 @@
-CREATE TABLE abt_fiel AS
+DROP TABLE IF EXISTS abt_fiel;
+CREATE TABLE IF NOT EXISTS abt_fiel AS
 
 WITH tb_join AS (
 
@@ -101,32 +102,32 @@ SELECT t1.*,
        t3.pctReborn,
        t3.avgFreqGrupo,
        t3.ratioFreqGrupo,
-        t4.qtdeCursosCompletos,
-        t4.qtdeCursosIncompletos,
-        t4.carreira,
-        t4.coletaDados2024,
-        t4.dsDatabricks2024,
-        t4.dsPontos2024,
-        t4.estatistica2024,
-        t4.estatistica2025,
-        t4.github2024,
-        t4.github2025,
-        t4.iaCanal2025,
-        t4.lagoMago2024,
-        t4.machineLearning2025,
-        t4.matchmakingTramparDeCasa2024,
-        t4.ml2024,
-        t4.mlflow2025,
-        t4.pandas2024,
-        t4.pandas2025,
-        t4.python2024,
-        t4.python2025,
-        t4.sql2020,
-        t4.sql2025,
-        t4.streamlit2025,
-        t4.tramparLakehouse2024,
-        t4.tseAnalytics2024,
-        t4.qtdDiasUltiAtividade
+       t4.qtdeCursosCompletos,
+       t4.qtdeCursosIncompletos,
+       t4.carreira,
+       t4.coletaDados2024,
+       t4.dsDatabricks2024,
+       t4.dsPontos2024,
+       t4.estatistica2024,
+       t4.estatistica2025,
+       t4.github2024,
+       t4.github2025,
+       t4.iaCanal2025,
+       t4.lagoMago2024,
+       t4.machineLearning2025,
+       t4.matchmakingTramparDeCasa2024,
+       t4.ml2024,
+       t4.mlflow2025,
+       t4.pandas2024,
+       t4.pandas2025,
+       t4.python2024,
+       t4.python2025,
+       t4.sql2020,
+       t4.sql2025,
+       t4.streamlit2025,
+       t4.tramparLakehouse2024,
+       t4.tseAnalytics2024,
+       t4.qtdDiasUltiAtividade
 
 FROM tb_cohort AS t1
 
@@ -141,3 +142,6 @@ AND t1.dtRef = t3.dtRef
 LEFT JOIN fs_education AS t4
 ON t1.IdCliente = t4.IdCliente
 AND t1.dtRef = t4.dtRef
+
+WHERE t3.dtRef IS NOT NULL
+;
