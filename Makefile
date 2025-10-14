@@ -12,14 +12,12 @@ ANALYTICS_DIR=src/analytics
 # Configura o ambiente virtual
 .PHONY: setup
 setup:
-
 	rm -rf $(VENV_DIR)
 	@echo "Criando ambiente virtual..."
 	python3 -m venv $(VENV_DIR)
 	@echo "Ativando ambiente virtual e instalando dependências..."
 	. $(VENV_DIR)/bin/activate && \
 	pip install pipreqs && \
-	rm -f requirements.txt && \
  	pipreqs src/ --force --savepath requirements.txt && \
 	pip install -r requirements.txt
 
@@ -34,4 +32,6 @@ run:
 	cd ../analytics && \
 	python pipeline_analytics.py
 
+# Alvo padrão
+.PHONY: all
 all: setup run
