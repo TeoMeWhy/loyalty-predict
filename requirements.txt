@@ -1,0 +1,12 @@
+feature_engine==1.9.3
+kaggle==1.7.4.5
+matplotlib==3.10.7
+mlflow==3.4.0
+mlflow_skinny==3.4.0
+mlflow_tracing==3.4.0
+pandas==2.3.3
+python-dotenv==1.1.1
+scikit_learn==1.7.2
+seaborn==0.13.2
+SQLAlchemy==2.0.44
+tqdm==4.67.1
