@@ -23,15 +23,34 @@ setup:
 
 
 # Executa os scripts
-.PHONY: run
-run:
+.PHONY: collect
+collect:
 	@echo "Ativando ambiente virtual..."
-	. $(VENV_DIR)/bin/activate && \
+	. $(VENV_DIR)/bin/activate
+	@echo "Executando scripts de engenharia..."
 	cd src/engineering && \
-	python get_data.py && \
-	cd ../analytics && \
+	python get_data.py
+
+
+# etl das features
+.PHONY: etl
+etl:
+	@echo "Ativando ambiente virtual..."
+	. $(VENV_DIR)/bin/activate
+	@echo "Executando scripts de feature store..."
+	cd src/analytics && \
 	python pipeline_analytics.py
+
+# predicao
+.PHONY: predict
+predict:
+	@echo "Ativando ambiente virtual..."
+	. $(VENV_DIR)/bin/activate
+	@echo "Executando script de predição..."
+	cd src/analytics && \
+	python predict_fiel.py
+
 
 # Alvo padrão
 .PHONY: all
-all: setup run
+all: setup collect etl predict
